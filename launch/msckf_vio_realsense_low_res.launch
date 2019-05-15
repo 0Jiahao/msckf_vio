@@ -35,15 +35,9 @@
       <param name="feature/config/translation_threshold" value="-1.0"/>
 
       <!-- These values should be standard deviation -->
-<<<<<<< HEAD
       <param name="noise/gyro" value="0.045"/>
       <param name="noise/acc" value="0.45"/>
       <param name="noise/gyro_bias" value="0.00675"/>
-=======
-      <param name="noise/gyro" value="0.03"/>
-      <param name="noise/acc" value="0.45"/>
-      <param name="noise/gyro_bias" value="0.0045"/>
->>>>>>> 6791eadc1ab5c54b497ddc6901324b9111ac00c2
       <param name="noise/acc_bias" value="0.06"/>
       <param name="noise/feature" value="0.0035"/>
 
@@ -65,8 +59,3 @@
   </group>
 
 </launch>
-
-<<<<<<< HEAD
-
-=======
->>>>>>> 6791eadc1ab5c54b497ddc6901324b9111ac00c2
